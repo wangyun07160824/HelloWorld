@@ -1,8 +1,8 @@
-#include "HelloWorldScene.h"
+﻿#include "HelloWorldScene.h"
 
 USING_NS_CC;
 
-//tony guan commit mac 关东升
+//tony guan commit mac 关东升 sss
 Scene* HelloWorld::createScene()
 {
     // 'scene' is an autorelease object
