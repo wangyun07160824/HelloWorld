@@ -2,6 +2,7 @@
 
 USING_NS_CC;
 
+//tony guan commit mac 关东升在Mac系统中修改
 Scene* HelloWorld::createScene()
 {
     // 'scene' is an autorelease object
